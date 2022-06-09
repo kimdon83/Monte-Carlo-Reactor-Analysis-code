@@ -1,0 +1,17 @@
+Material (
+  UO2 1
+	MOX43 2
+	MOX70 3
+	MOX87 4
+	Fis_Cham 5
+	Guide_Tube 6
+	Moder 7
+);
+Option (
+	C_SOURCE n 10000 cube 0 1 0 1 0 10 ENERGY 2 inactive/active 100 100 implicitCap
+);
+Cells (
+	PIN 1 1 1.26 1.26 0 1.26 0 1.26 0.63 0.63 0.54 0 10	10 UO2 Moder 
+	BC refl refl refl refl refl refl
+	Fuel 1 1 1 1 
+);

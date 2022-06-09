@@ -1,0 +1,21 @@
+﻿  cell.cpp
+  main.cpp
+  mcman.cpp
+  particle.cpp
+  ptcRUN.cpp
+  readCX.cpp
+F:\F백업 최종\수업\2016봄\MCMC\MCMC\readCX.cpp(31,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\F백업 최종\수업\2016봄\MCMC\MCMC\readCX.cpp(33,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  readINPUT.cpp
+F:\F백업 최종\수업\2016봄\MCMC\MCMC\readINPUT.cpp(42,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\F백업 최종\수업\2016봄\MCMC\MCMC\readINPUT.cpp(44,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\F백업 최종\수업\2016봄\MCMC\MCMC\readINPUT.cpp(79,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\F백업 최종\수업\2016봄\MCMC\MCMC\readINPUT.cpp(81,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  rng.cpp
+  source.cpp
+  tally.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 307 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MCMC.vcxproj -> F:\F백업 최종\수업\2016봄\MCMC\Release\MCMC.exe
